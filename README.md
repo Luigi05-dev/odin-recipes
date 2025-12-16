@@ -29,9 +29,6 @@ By completing this project, I improved my understanding of:
 This was a good introduction to how real projects are built step by step.
 
 ## Live Demo
-You can view the live version of the website here:
-
-**https://luigi05-dev.github.io/odin-recipes/**
 
 
 
@@ -44,3 +41,4 @@ You can view the live version of the website here:
 You can view the live version of the website here:
 
 **https://luigi05-dev.github.io/odin-recipes/**
+
